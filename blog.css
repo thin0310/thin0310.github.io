@@ -1,0 +1,107 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+.blog__container {
+    width: 100%;
+    height: 100%;
+    padding: 48px 48px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:center;
+}
+
+.blog{
+    margin-top: 50px;
+    width: auto;
+    height: 300px;   
+    display: flex;
+   
+}
+
+.blog__text{
+    width: 500px;
+    margin-left: 100px;
+}
+p{
+    margin-top: 5px;
+    color: #666666;
+}
+.xemthem{
+    text-decoration: none;
+    color: red;
+}
+.title{
+    width: 50%;
+    height: 50px;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: block;
+    
+}
+
+.content{
+    width: 70%;
+    height: 200px;
+    border-radius: 5px;
+    margin: 0 auto;
+    display: block;
+}
+a{
+    text-decoration: none;
+}
+
+.upload{
+    margin-left: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;    
+
+
+}
+.DangBai{
+    margin-top: 100px;
+    width: 90%;
+    height: 650px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin: 0 auto;
+    display: block;
+    
+}
+.DangBai h3{
+    text-align: center;
+    
+}
+
+.ThemAnh{
+   margin-left: 480px !important;
+    
+}
+.icon_contact {
+    display: flex;
+    gap: 12px;
+    font-size: 28px;
+
+}
+.contact__text{
+    padding-left: 248px  !important;
+ }
+ .profile__a{
+    color: black;
+}
+footer{
+    margin-top: 50px;
+}
+.btn__dangbai{
+    
+    display: block;
+    margin: 0 auto;
+    margin-top: 20px;
+    width: 150px;
+    height: 50px;
+    border-radius: 20px;
+
+}

@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+    
+}
+
+.carousel-item{
+    max-height: 600px;  
+    
+}
+.image{
+margin-top: 50px;
+width: 80%;
+margin-left: 148px;
+}
+
+.gioithieu{
+    position: relative;
+    
+}
+.anhnen{
+    height: 650px;
+    width: 100%  ;
+}
+.text{
+    
+    color:white;
+    font-size: 70px;
+    position: absolute;
+    top: 40px;
+    left: 80px;
+    font-weight: bold;
+    
+}
+.lienhe{
+    text-decoration: none;
+}
+a{
+    text-decoration: none;
+}
+
+.gioithieu__btn{
+    position: absolute;
+    bottom: 100px;
+    left: 660px;
+    border-radius: 30px;
+    width: 180px;
+    height: 48px;
+    
+}
+footer{
+    margin-top: 50px;
+    
+}
+.icon_contact {
+    display: flex;
+    gap: 12px;
+    font-size: 28px;
+
+}
+.contact__text{
+   padding-left: 248px  !important;
+}
+.country__a{
+    color: white;
+}
+a:hover{
+    color: rgb(212, 201, 201);
+}
+.profile__a{
+    color: black;
+}
+
